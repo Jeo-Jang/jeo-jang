@@ -40,7 +40,7 @@ I architected and maintain a GDPR-compliant GenAI platform for teams of designer
 **Domain Expertise**
 ![Sustainability](https://img.shields.io/badge/Focus-Sustainability_Tech-4CAF50?style=flat)
 ![GDPR](https://img.shields.io/badge/Compliance-GDPR_Ready-003399?style=flat)
-![Architecture](https://img.shields.io/badge/Background-M.Sc._Architecture-black?style=flat)
+![Architecture](https://img.shields.io/badge/Background-M.Sc._ITECH-black?style=flat)
 
 ---
 
