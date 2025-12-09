@@ -14,7 +14,7 @@ I architected and maintain a GDPR-compliant GenAI platform for teams of designer
 >
 > * **The Stack:** Python, Streamlit, Azure OpenAI, Supabase, Docker.
 > * **The Logic:** Centralized Auth Gate with isolated "Spoke" modules.
-> * **The Compliance:** Data sovereignty enforced via **Azure Germany West Central**.
+> * **The Compliance:** Data sovereignty enforced via data residency in **Germany West Central**.
 > * **The Data:** Stateless processing for sensitive documents.
 > * **The Agents:** Specialized Pydantic-guarded agents for **ISO Standards** & **Packaging**.
 
