@@ -1,7 +1,7 @@
 ### Hi there, I'm Jeongwoo 👋
 **GenAI Architect & Automation Engineer** based in Hamburg, Germany 🇩🇪
 
-> *"The logic of building a solid house isn't so different from building an intelligent system: you need a strong foundation, a clear purpose, and you can't just chase trends."*
+> *"I used to architect buildings. Now, I architect intelligent systems."*
 
 I started my career in Architecture (M.Sc.), designing physical spaces. At **INDEED Innovation**, my role evolved from **Computational Design** to **GenAI Architecture** as I built the company's internal AI Hub from scratch. Today, I specialize in **Agentic Systems** that turn chaotic workflows into structured automation.
 
@@ -45,12 +45,11 @@ I architected and maintain a GDPR-compliant GenAI platform for teams of designer
 ---
 
 ### 💼 Engineering Impact
-**GenAI Architect @ INDEED Innovation GmbH**
-* **0% Manual Labor:** Architected an automated safety document generator using multimodal models, eliminating copy-paste tasks entirely.
-* **Internal GenAI Hub:** Built the team's "central nervous system" for strategy from scratch (2023–Present), driving adoption across engineering and design teams.
-* **Cloud Deployment:** Deployed secure GenAI Hubs for external clients using **Azure App Service**, managing **IAM Roles** and API quotas for enterprise-grade security.
-* **Sustainability Tech:** Integrated **IDEMAT** databases into chat agents to calculate real-time Carbon Footprints for packaging designs.
-* **Process Automation:** Developed n8n workflows that save **30+ hours/month** per person on strategic reporting.
+**Computational Designer (Lead GenAI Developer) @ INDEED Innovation GmbH**
+* **Role Evolution:** Transitioned from Design to **Full-Stack Engineering**, through building the company's technical infrastructure.
+* **0% Manual Labor:** Architected an automated safety document generator using multimodal models and jinja.
+* **Cloud Deployment:** Deployed secure GenAI Hubs for external clients using **Azure App Service**, managing **IAM Roles** and API quotas.
+* **Process Automation:** Developed n8n workflows that save **30+ hours/month** per person on reporting.
 
 ---
 
