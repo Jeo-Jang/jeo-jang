@@ -10,7 +10,7 @@ I started my career in Architecture (M.Sc.), designing physical spaces. At **IND
 ### 🚀 Featured Architecture: Internal GenAI Toolbox
 I architected and maintain a GDPR-compliant GenAI platform for teams of designers, engineers, and strategists. This repository showcases the **Hub-and-Spoke architecture** and **Guardrail patterns** currently used in production.
 
-> **[🛡️ View the System Architecture](https://github.com/Jeo-Jang/projects/tree/main/indeed-ai-toolbox-architecture)**
+> **[🛡️ View the System Architecture](https://github.com/Jeo-Jang/Portfolio/blob/main/gen-ai-hub/architecture.md)**
 >
 > * **The Stack:** Python, Streamlit, Azure OpenAI, Supabase, Docker.
 > * **The Logic:** Centralized Auth Gate with isolated "Spoke" modules.
