@@ -22,19 +22,22 @@ I architected the internal GenAI infrastructure for **INDEED Innovation**, movin
 ### 🛠️ Technical Stack
 **Core Engineering**
 ![Python](https://img.shields.io/badge/Python-3.13+-3776AB?style=flat&logo=python&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-Data_Validation-E92063?style=flat&logo=pydantic&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Enterprise-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Langflow](https://img.shields.io/badge/Langflow-RAG_Pipeline-4B0082?style=flat)
 
 **Cloud & Infrastructure**
 ![Azure](https://img.shields.io/badge/Azure-Entra_ID_&_App_Service-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-Vertex_AI_&_IAM-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-Auth_&_RLS-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Dev_Container-2496ED?style=flat&logo=docker&logoColor=white)
 
 **AI & Data**
 ![OpenAI SDK](https://img.shields.io/badge/OpenAI-Agents_SDK-412991?style=flat&logo=openai&logoColor=white)
+![Google GenAI SDK](https://img.shields.io/badge/Google-GenAI_SDK-8E75B2?style=flat&logo=google&logoColor=white)
+![Langflow](https://img.shields.io/badge/Langflow-RAG_Pipeline-4B0082?style=flat)
 ![Vector DB](https://img.shields.io/badge/Vector_DB-pgvector-006400?style=flat&logo=postgresql&logoColor=white)
-![Jinja2](https://img.shields.io/badge/Jinja2-Prompt_Templating-B41717?style=flat&logo=jinja&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-Graph_DB-008CC1?style=flat&logo=neo4j&logoColor=white)
 
 ---
 
